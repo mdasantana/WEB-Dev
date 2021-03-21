@@ -9,30 +9,41 @@
 	Projetos desenvolvidos durante a disciplina de Programacao Web
 </h4>
 ---
+
 <h4 align="center"> 
 	??  Em construcao... ??
 </h4>
+
 ---
+
 <!--ts-->
    * PROJETOS:
       * [Fotografar](https://github.com/mdasantana/pweb/tree/main/Projeto%20Materialize)
 <!--te-->
+
 ---
+
 <h2 align="center">
 	[Projeto Fotografar](https://mdasantana.github.io/pweb/Projeto%20Materialize/index.html)
 </h2>
+
 --
+
 <h4 align="center"> 
 	Site desenvolvido com o objetivo de demonstrar o conhecimento em front-end na disciplina de Programacao Web. Requisito do projeto: 100% em [Materialize](https://materializecss.com/)
 </h4>
+
 --
+
 <!--ts-->
    * Paginas:
       * [Index](https://github.com/mdasantana/pweb/blob/main/Projeto%20Materialize/index.html)
       * [Produtos](https://github.com/mdasantana/java/blob/main/Atividades/2%C2%AA%20Quest%C3%A3o.java)
       * [PortifÃ³lio](https://github.com/mdasantana/pweb/blob/main/Projeto%20Materialize/produtos.html)
 <!--te-->
+
 --
+
 <!--ts-->
    * Desenvolvedores:
       * [Edvan Mateó](https://github.com/edvanmateo)
@@ -41,7 +52,9 @@
       * [Rodrigo Santos]()
       * [Wagner Santos]()
 <!--te-->
+
 --
+
 <!--ts-->
    * Fotografos Usados:
       * [Alex Iby](https://unsplash.com/photos/LaHo9Set3bI)
@@ -63,12 +76,14 @@
       * [Vitor Pinto](https://unsplash.com/photos/azuT-J9e5sA)
 <!--te-->
 
-
 ---
+
 ## Licenca dos Projetos
+
 <h4 align="center">
 	Este projeto esta sobe a licenca [MIT](./LICENSE).
 </h4>
+
 <h4 align="center">
 	Feito por Matheus Santana [Entre em contato!](https://www.linkedin.com/in/dev-matheus-santana/)
 </h4>
