@@ -6,8 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <!--ESTILO MATERIALIZE-->
   <link type="text/css" rel="stylesheet" href="css/materialize.css" media="screen,projection" />
+  <!--ESTILO A PARTE-->
   <link type="text/css" rel="stylesheet" href="css/estilo.css" media="screen,projection" />
+  <!--ÍCONE AO LADO DO NOME DO SITE-->
   <link rel="shortcut icon" href="img/camera.svg" type="image/x-icon">
   <title>Portifólio - Fotografias Digitais</title>
 </head>
@@ -15,6 +18,7 @@
 <body>
   <div class="estrutura">
     <header class="header">
+      <!--SIDNAV https://materializecss.com/sidenav.html-->
       <nav>
         <ul id="slide-out" class="sidenav">
           <li>
@@ -54,6 +58,7 @@
       </nav>
     </header>
     <aside>
+      <!--DROPDOWN (Só aparece se acessado em pc) https://materializecss.com/dropdown.html-->
       <a class='dropdown-trigger btn' href='#' data-target='dropdown1'>Siga-me!</a>
       <ul id='dropdown1' class='dropdown-content'>
         <li><a href="#!"><img src="img/icons/logotipo-do-instagram.png" alt=""></a></li>
@@ -62,6 +67,7 @@
       </ul>
     </aside>
     <main class="conteudo">
+      <!--SLIDER FEITO A PARTE, NÃO É MATERIALIZE-->
       <section class="portifolio-slider">
         <div class="portifolio-slider-principal slider-principal-porti">
           <div class="carregar-fundo-porti">
@@ -74,9 +80,13 @@
         </div>
       </section>
       <section class="portifolio portifolio-1">
+        <!--todos os produtos são cards-->
+        <!--Tabs in Cards https://materializecss.com/cards.html-->
+        <!--Quando clica na imagem abre ela em tamanho maior com o MODALS https://materializecss.com/modals.html-->
         <div class="conteiner-portifolio conteiner">
           <div class="row">
             <div class="col s12 m4">
+              <!--CARD COM A IMAGEM QUE QND CLICA ABRE O MODALS. O VALOR DO href leva ao id. Ex.: o card com o href="#modal1 abre o modals com id="modal1"-->
               <div class="card">
                 <div class="card-image">
                   <a class="waves-effect waves-light modal-trigger" href="#modal1">
@@ -85,6 +95,7 @@
                 </div>
               </div>
             </div>
+            <!--MODALS https://materializecss.com/modals.html-->
             <div id="modal1" class="modal">
               <div class="modal-content">
                 <h4>Clara e Gabriel</h4>
@@ -281,6 +292,7 @@
           </div>
       </section>
     </main>
+    <!--O FOOTER É O MESMO DA INDEX.HTML-->
     <footer class="page-footer">
       <div class="footer">
         <section class="contato" id="contato">
@@ -359,8 +371,11 @@
       </div>
     </footer>
   </div>
+  <!--Link do JQuery-->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <!--Link do JS Materialize-->
   <script type="text/javascript" src="js/materialize.js"></script>
+  <!--Ativação das funções do JS do Materialize--> 
   <script>
     $(document).ready(function () {
       $('.modal').modal();

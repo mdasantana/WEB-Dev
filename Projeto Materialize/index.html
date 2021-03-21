@@ -6,8 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <!--ESTILO MATERIALIZE-->
   <link type="text/css" rel="stylesheet" href="css/materialize.css" media="screen,projection" />
+  <!--ESTILO A PARTE-->
   <link type="text/css" rel="stylesheet" href="css/estilo.css" media="screen,projection" />
+  <!--ÍCONE AO LADO DO NOME DO SITE-->
   <link rel="shortcut icon" href="img/camera.svg" type="image/x-icon">
   <title>Fotografar - Fotografias Digitais</title>
 </head>
@@ -15,6 +18,7 @@
 <body>
   <div class="estrutura">
     <header class="header">
+      <!--SIDNAV https://materializecss.com/sidenav.html-->
       <nav>
         <ul id="slide-out" class="sidenav">
           <li>
@@ -54,8 +58,9 @@
       </nav>
     </header>
     <main class="conteudo">
-      <section class="slider">
-        <div class="slider-principal">
+      <!--SLIDER FEITO A PARTE, NÃO É MATERIALIZE-->
+      <section class="slider slider-index">
+        <div class="slider-principal slider-principal-index">
           <div class="carregar-fundo">
           </div>
           <div class="center fundo-escuro">
@@ -74,6 +79,8 @@
           </div>
           <div class="row">
             <div class="col">
+              <!--todos os produtos são cards-->
+              <!--Tabs in Cards https://materializecss.com/cards.html-->
               <div class="card-content">
                 <div>
                   <div class="row">
@@ -124,6 +131,7 @@
               </div>
             </div>
           </div>
+          <!--Botão https://materializecss.com/buttons.html-->
           <div class="botao">
             <p>Clique aqui e veja os detalhes de cada produto</p>
             <a class="waves-effect waves-light btn btn-roxo" href="produtos.html">Produtos</a>
@@ -134,6 +142,7 @@
       <section class="portifolio" id="portifolio">
         <div class="conteiner-portifolio conteiner">
           <h2 class="header center h2-branco">Portifolio</h2>
+          <!--Os portifólios também são cards, só que quando clicam neles, as imagens ficam em foco na tela https://materializecss.com/media.html-->
           <div class="cards-portifolio">
             <div class="row">
               <div class="col s12 m8">
@@ -199,18 +208,21 @@
       <section class="sobre conteiner" id="sobre">
         <div class="col s12 m12 l12">
           <h2 class="header center">Sobre</h2>
+          <!--É um card também-->
           <div class="card horizontal card-sem-sombra card-sobre">
+            <!--É um card também-->
             <div class="card-image">
               <img class="img-fotografa" src="img/fotografa.jpeg" alt="Fulana de Tal Fotografa">
             </div>
+            <!--É um card também-->
             <div class="card-stacked">
               <div class="card-content">
                 <p class="left">Mussum Ipsum, cacilds vidis litro abertis. Viva Forevis aptent taciti sociosqu ad litora torquent. Sapien in monti palavris qui num significa nadis i pareci latim. In elementis mé pra quem é amistosis quis leo. Em pé sem cair, deitado sem dormir, sentado sem cochilar e fazendo pose.</p>
               </div>
               <div class="card-action center">
-                <a href="#"><img class="icon-sociais" src="img/instagram.png" alt="Instagram Logo"></a>
-                <a href="#"><img class="icon-sociais" src="img/pinterest.png" alt="Pinterest Logo"></a>
-                <a href="#"><img class="icon-sociais" src="img/twitter.png" alt="Twitter Logo"></a>
+                <a href="#"><img class="icon-sociais" src="img/icons/instagram.png" alt="Instagram Logo"></a>
+                <a href="#"><img class="icon-sociais" src="img/icons/pinterest.png" alt="Pinterest Logo"></a>
+                <a href="#"><img class="icon-sociais" src="img/icons/twitter.png" alt="Twitter Logo"></a>
               </div>
             </div>
           </div>
@@ -229,7 +241,7 @@
                     <div class="card-content white-text center card-contato-ende">
                       <span class="card-title">Conheça nosso estúdio!</span>
                       <p>Rua Logo Ali, nº 498, Jardim das Rosas</p>
-                      <p>E-mail: contato@fotografar.com.brand-logo<br>(75) 3636-6363</p>
+                      <p>E-mail: contato@fotografar.com.br<br>(75) 3636-6363</p>
                     </div>
                     <div class="card-action redes-sociais-contato">
                       <a href="http://" target="_blank" rel="noopener noreferrer"><img class="icons-contato" src="img/icons/periscopio.svg" alt="Endereço Maps"></a>
@@ -274,6 +286,7 @@
           </div>
         </section>
         <div class="container">
+          <!--Feito a parte-->
           <div class="column">
             <div class="col l4 offset-l2 s12 desenvolvedores">
               <h5 class="white-text">Desenvolvido por:</h5>
@@ -295,8 +308,11 @@
       </div>
     </footer>
   </div>
+  <!--Link do JQuery-->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <!--Link do JS Materialize-->
   <script type="text/javascript" src="js/materialize.js"></script>
+  <!--Ativação das funções do JS do Materialize-->
   <script>
     var instance = M.Carousel.init({
       fullWidth: true
