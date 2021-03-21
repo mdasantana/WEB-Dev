@@ -1,16 +1,16 @@
 <h1 align="center">
-    <img alt="Programação Web Front e Back End" title="#ProhramacaoWebFront&Back" src="./assets/banner.png" />
+    <img alt="Programacao Web Front e Back End" title="#ProhramacaoWebFront&Back" src="./assets/banner.png" />
 </h1>
 <h1 align="center">
 	Projetos Web Full Stack
 </h1>
 ---
 <h4 align="center"> 
-	Projetos desenvolvidos durante a disciplina de Programação Web
+	Projetos desenvolvidos durante a disciplina de Programacao Web
 </h4>
 ---
 <h4 align="center"> 
-	🚧  Em construção... 🚧
+	??  Em construcao... ??
 </h4>
 ---
 <!--ts-->
@@ -23,11 +23,11 @@
 </h2>
 --
 <h4 align="center"> 
-	Site desenvolvido com o objetivo de demonstrar o conhecimento em front-end na disciplina de Programação Web. Requisito do projeto:100% em [Materialize](https://materializecss.com/)
+	Site desenvolvido com o objetivo de demonstrar o conhecimento em front-end na disciplina de Programacao Web. Requisito do projeto: 100% em [Materialize](https://materializecss.com/)
 </h4>
 --
 <!--ts-->
-   * Páginas:
+   * Paginas:
       * [Index](https://github.com/mdasantana/pweb/blob/main/Projeto%20Materialize/index.html)
       * [Produtos](https://github.com/mdasantana/java/blob/main/Atividades/2%C2%AA%20Quest%C3%A3o.java)
       * [Portifólio](https://github.com/mdasantana/pweb/blob/main/Projeto%20Materialize/produtos.html)
@@ -35,7 +35,7 @@
 --
 <!--ts-->
    * Desenvolvedores:
-      * [Edvan Mateó](https://github.com/edvanmateo)
+      * [Edvan Mate�](https://github.com/edvanmateo)
       * [Lucas Santos]()
       * [Matheus Santana](https://github.com/mdasantana)
       * [Rodrigo Santos]()
