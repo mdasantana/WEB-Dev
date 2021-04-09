@@ -31,13 +31,9 @@
 	Projeto Fotografar
 </h2>
 
---
-
 <h4 align="center"> 
 	Site desenvolvido com o objetivo de demonstrar o conhecimento em front-end na disciplina de Programação Web. Requisito do projeto: 100% com o FrameWork Materialize
 </h4>
-
---
 
 <!--ts-->
    * Páginas:
@@ -80,10 +76,6 @@
 
 ## Licenca dos Projetos
 
-<h4>
-	Este projeto esta sobe a licenca [MIT](./LICENSE).
-</h4>
+Este projeto esta sobe a licenca [MIT](./LICENSE).
 
-<h4>
-	Feito por Matheus Santana [Entre em contato!](https://www.linkedin.com/in/dev-matheus-santana/)
-</h4>
+Feito por Matheus Santana [Entre em contato!](https://www.linkedin.com/in/dev-matheus-santana/)
