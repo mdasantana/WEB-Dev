@@ -22,13 +22,13 @@
 
 <!--ts-->
    * PROJETOS:
-      * [Fotografar](https://github.com/mdasantana/pweb/tree/main/Projeto%20Materialize)
+      * [:camera: Fotografar](https://github.com/mdasantana/pweb/tree/main/Projeto%20Materialize)
 <!--te-->
 
 ---
 
 <h2 align="center">
-	Projeto Fotografar
+	:camera: Projeto Fotografar :camera:
 </h2>
 
 <h4 align="center"> 
