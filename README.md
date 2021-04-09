@@ -1,17 +1,21 @@
 <h1 align="center">
-    <img alt="Programacao Web Front e Back End" title="#ProhramacaoWebFront&Back" src="./assets/banner.png" />
+    <img alt="Programação Web Front e Back End" heigth="740 title="#ProhramacaoWebFront&Back" src="https://github.com/mdasantana/pweb/blob/main/assets/banner.jpg" />
 </h1>
+
 <h1 align="center">
 	Projetos Web Full Stack
 </h1>
----
-<h4 align="center"> 
-	Projetos desenvolvidos durante a disciplina de Programacao Web
-</h4>
+
 ---
 
 <h4 align="center"> 
-	??  Em construcao... ??
+	Projetos desenvolvidos durante a disciplina de Programação Web
+</h4>
+
+---
+
+<h4 align="center"> 
+	🚧  Em construção... 🚧
 </h4>
 
 ---
@@ -24,36 +28,28 @@
 ---
 
 <h2 align="center">
-	[Projeto Fotografar](https://mdasantana.github.io/pweb/Projeto%20Materialize/index.html)
+	Projeto Fotografar
 </h2>
 
---
-
 <h4 align="center"> 
-	Site desenvolvido com o objetivo de demonstrar o conhecimento em front-end na disciplina de Programacao Web. Requisito do projeto: 100% em [Materialize](https://materializecss.com/)
+	Site desenvolvido com o objetivo de demonstrar o conhecimento em front-end na disciplina de Programação Web. Requisito do projeto: 100% com o FrameWork Materialize
 </h4>
 
---
-
 <!--ts-->
-   * Paginas:
+   * Páginas:
       * [Index](https://github.com/mdasantana/pweb/blob/main/Projeto%20Materialize/index.html)
       * [Produtos](https://github.com/mdasantana/java/blob/main/Atividades/2%C2%AA%20Quest%C3%A3o.java)
       * [Portifólio](https://github.com/mdasantana/pweb/blob/main/Projeto%20Materialize/produtos.html)
 <!--te-->
 
---
-
 <!--ts-->
    * Desenvolvedores:
-      * [Edvan Mate�](https://github.com/edvanmateo)
+      * [Edvan Mateó](https://github.com/edvanmateo)
       * [Lucas Santos]()
       * [Matheus Santana](https://github.com/mdasantana)
       * [Rodrigo Santos]()
       * [Wagner Santos]()
 <!--te-->
-
---
 
 <!--ts-->
    * Fotografos Usados:
@@ -80,10 +76,6 @@
 
 ## Licenca dos Projetos
 
-<h4 align="center">
-	Este projeto esta sobe a licenca [MIT](./LICENSE).
-</h4>
+Este projeto esta sobe a licenca [MIT](./LICENSE).
 
-<h4 align="center">
-	Feito por Matheus Santana [Entre em contato!](https://www.linkedin.com/in/dev-matheus-santana/)
-</h4>
+Feito por Matheus Santana [Entre em contato!](https://www.linkedin.com/in/dev-matheus-santana/)
